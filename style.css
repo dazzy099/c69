@@ -1,0 +1,25 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_div{
+    border: 1px solid lightgray;
+}
+.travel_div img{
+    width: 100%;
+}
+.travel_div h5 , .travel_div p{
+    margin: 20px;
+}
+.movie_head{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius: 10px;  
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.glyphicon-star{
+    color:orange ;
+}
